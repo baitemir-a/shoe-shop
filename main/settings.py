@@ -11,7 +11,7 @@ SECRET_KEY = 'django-insecure-b-t(hk@(cso^d*y2j7m&k#tbiipoz*0v&#0li@&vo2wuyy-d(=
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://shoe-shop-yk8h.onrender.com/"]
 
 
 INSTALLED_APPS = [
